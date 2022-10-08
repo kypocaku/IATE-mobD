@@ -51,7 +51,4 @@ class GenerateString(var n : Int) {
         this.n=0
     }
 
-
-
-
 }
